@@ -49,7 +49,7 @@ const TeamMember = () => {
                             </div>
                         </div>
                         <h6 className="team-title">Smit Hirpara</h6>
-                        <span>Full Stack DEveloper</span>
+                        <span>Full Stack Developer</span>
                     </div>
                 </div>                
                 <div className="col-md-4 col-sm-6 team-wrap">
